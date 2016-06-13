@@ -1,0 +1,4 @@
+-Error Ascii
+-Integrar con twitter
+-Estado del Puente
+-Descarga de mapa
